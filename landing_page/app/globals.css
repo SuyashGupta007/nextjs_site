@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face{
+  font-family: "canopee";
+  src: url("../public/fonts/Canopee.otf");
+}
+@font-face{
+  font-family: "domain";
+  src: url("../public/fonts/domain.otf");
+}
